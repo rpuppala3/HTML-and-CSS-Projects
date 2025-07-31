@@ -13,4 +13,4 @@ This is the location where I stored my HTML and CSS related course work
 
 3. portfolio website:
 
-   This is my portfoli website which is live as it was deployed on Github pages - raj.github.io.
+   This is my portfolio website which is live as it was deployed on Github pages - raj.github.io.
